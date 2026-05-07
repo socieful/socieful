@@ -93,33 +93,36 @@ This is a living system — not a finished product.
 
 ---
 
+### 💬 Talk World
+
 <p align="center">
   <img src="./chat.png" width="70%" />
 </p>
 
-### 💬 Talk World
 Real-time conversations between people across the world.
 
 > ⚠️ This screen is a **development preview**. UI and features are not final.
 
 ---
 
+### 🌍 Echoes
+
 <p align="center">
   <img src="./echoes.png" width="70%" />
 </p>
 
-### 🌍 Echoes
 Local thoughts, tips, warnings, and human traces from cities.
 
 > ⚠️ This screen is a **development preview**. UI and features are not final.
 
 ---
 
+### 👤 Passport
+
 <p align="center">
   <img src="./passport.png" width="70%" />
 </p>
 
-### 👤 Passport
 Identity layer showing languages, journeys, and stamps.
 
 > ⚠️ This screen is a **development preview**. UI and features are not final.
