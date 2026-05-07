@@ -156,10 +156,11 @@ But it’s real.
 
 If you believe in this idea:
 
-- GitHub Sponsors: https://github.com/sponsors/YOURNAME  
-- Website: https://socieful.com  
+* **GitHub Sponsors:** https://github.com/sponsors/socieful
+* **Patreon:** https://www.patreon.com/socieful
+* **Website:** https://socieful.com
 
-Every bit of support helps keep it alive and evolving.
+Support helps keep the project alive and growing 🚀
 
 ---
 
