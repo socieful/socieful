@@ -91,12 +91,16 @@ This is a living system — not a finished product.
 
 ## 🖼️ Product Preview
 
+---
+
 <p align="center">
   <img src="./chat.png" width="70%" />
 </p>
 
 ### 💬 Talk World
 Real-time conversations between people across the world.
+
+> ⚠️ This screen is a **development preview**. UI and features are not final.
 
 ---
 
@@ -107,6 +111,8 @@ Real-time conversations between people across the world.
 ### 🌍 Echoes
 Local thoughts, tips, warnings, and human traces from cities.
 
+> ⚠️ This screen is a **development preview**. UI and features are not final.
+
 ---
 
 <p align="center">
@@ -115,6 +121,8 @@ Local thoughts, tips, warnings, and human traces from cities.
 
 ### 👤 Passport
 Identity layer showing languages, journeys, and stamps.
+
+> ⚠️ This screen is a **development preview**. UI and features are not final.
 
 ---
 
