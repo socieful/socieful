@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/homepage.png" width="100%" />
+  <img src="./homepage.png" width="70%" />
 </p>
 
 # 💛 Socieful
@@ -92,7 +92,7 @@ This is a living system — not a finished product.
 ## 🖼️ Product Preview
 
 <p align="center">
-  <img src="./assets/chat.png" width="100%" />
+  <img src="./chat.png" width="70%" />
 </p>
 
 ### 💬 Talk World
@@ -101,7 +101,7 @@ Real-time conversations between people across the world.
 ---
 
 <p align="center">
-  <img src="./assets/echoes.png" width="100%" />
+  <img src="./echoes.png" width="70%" />
 </p>
 
 ### 🌍 Echoes
@@ -110,7 +110,7 @@ Local thoughts, tips, warnings, and human traces from cities.
 ---
 
 <p align="center">
-  <img src="./assets/passport.png" width="100%" />
+  <img src="./passport.png" width="70%" />
 </p>
 
 ### 👤 Passport
