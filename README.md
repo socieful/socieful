@@ -93,10 +93,22 @@ This is a living system — not a finished product.
 
 ---
 
-### 💬 Talk World
+### 💬 Chat
 
 <p align="center">
   <img src="./chat.png" width="70%" />
+</p>
+
+Private conversations between people across the world.
+
+> ⚠️ This screen is a **development preview**. UI and features are not final.
+
+---
+
+### 🌍 Talk World
+
+<p align="center">
+  <img src="./talk-world.png" width="70%" />
 </p>
 
 Real-time conversations between people across the world.
